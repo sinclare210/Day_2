@@ -13,3 +13,7 @@ On Day 2, I practiced **Go interfaces** by creating two structs (`Book` and `Use
 ---
 
 ## 📂 Project Structure
+day_2/
+│── main.go # Entry point
+│── Book/ # Book struct & methods
+│── User/ # User struct & methods
